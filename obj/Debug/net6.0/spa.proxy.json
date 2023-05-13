@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44416",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\benmr\\Documents\\CSCE 361 Projects\\GroceryApp\\Final App\\OnlineStore\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
